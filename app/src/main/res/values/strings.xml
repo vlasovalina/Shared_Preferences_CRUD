@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared_Preferences_CRUD</string>
+    <string name="txt_put_id">Put ID.</string>
+    <string name="txt_put_name">Put_name</string>
+    <string name="txt_put_number">Put number</string>
+    <string name="txt_create">Create</string>
+</resources>
